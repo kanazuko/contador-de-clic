@@ -1,4 +1,5 @@
 import './App.css';
+import React, { Component }  from 'react';
 import freeCodeCampLogo from './imagenes/freecodecamp-logo.png';
 import Boton from './componentes/Boton.jsx';
 import Contador from './componentes/Contador';
